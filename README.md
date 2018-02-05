@@ -1,4 +1,4 @@
-# Componentes de la web
+# ¿Cómo funciona Internet?
 
 ## Internet
 
