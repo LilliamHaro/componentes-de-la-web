@@ -35,13 +35,42 @@ La principal función de un servidor Web es almacenar los archivos de un sitio y
  
  DNS : Sistema de nombres de dominio es una tecnología basada en una base de datos que sirve para resolver nombres en las redes, es decir, para conocer la dirección IP de la máquina donde está alojado el dominio al que queremos acceder.
  
- 
+ ![DNS](images/DNS.PNG)
  
 - HTTP
 - Buscador 
+
+Un buscador es un tipo especial de sitio web que ayuda a los usuarios a encontrar páginas web de sitios web.
+
+Hay muchos por ahí: Google, Bing, Yandex, DuckDuckGo,y muchos mas.
+
+Muchos  motores de búsqueda con navegadores. Aclaremos esto: Un navegador es una parte de software que devuelve y muestra páginas web; un buscador es un sitio web que ayuda a las personas a encontrar páginas web de otros sitios web.
+
+Motores de búsqueda Web funcionan mediante el envío de una araña.
+
+Las arañas (también llamadas "spiders") de los motores de búsqueda, recorren las páginas recopilando información sobre los contenidos de las páginas. Cuando se busca una información concreta en los buscadores, ellos consultan su base de datos y presentan resultados clasificados por su relevancia para esa búsqueda concreta.
+
 - Página web
 
 ## HTML
+
+HTML no es un lenguaje de programación, HTML es un lenguaje de marcado de hipertexto o “HyperText Markup Language” básicamente este lenguaje se escribe en su totalidad con elementos, estos elementos están constituidos por etiquetas, contenido y atributos.
+
+HTML es un lenguaje que interpreta el navegador web para mostrar los sitios o aplicaciones web tal y como estamos acostumbrados. 
+
+HTML5 (HyperText Markup Language, versión 5) es la quinta revisión importante del lenguaje básico de la World Wide Web.
+
+HTML5 establece una serie de nuevos elementos y atributos que reflejan el uso típico de los sitios web modernos. Algunos de ellos son técnicamente similares a las etiquetas <div> y <span>, pero tienen un significado semántico, como por ejemplo <nav> (bloque de navegación del sitio web) y <footer>.
+ 
+* Incorpora etiquetas (canvas 2D y 3D, audio, vídeo) 
+
+* Añade etiquetas para manejar la Web semántica (Web 3.0): header, footer, article, nav, time (fecha del contenido)
+
+* API de Geolocalización para dispositivos que lo soporten.
+
+
+
+
 
 
 
