@@ -1,7 +1,7 @@
 # Componentes de la web
 
 ## Internet
-![test](images/canchita.jpg)
+
 ## World wide web
 
 Nace a principios de los años 90 en Suiza. Su función es ordenar y distribuir la información que existe en internet.
