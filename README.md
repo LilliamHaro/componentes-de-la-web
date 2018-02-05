@@ -8,8 +8,11 @@ Nace a principios de los años 90 en Suiza. Su función es ordenar y distribuir 
 
 Introduce un concepto fundamental: La posibilidad de lectura universal, que consiste en que una vez que la información esté disponible, se pueda acceder a ella desde cualquier ordenador, desde cualquier país, por cualquier persona autorizada, usando un único y simple programa.
 
-La Web se basa en hipertextos, es decir, páginas en las que se pueden insertar hipervínculos.
-Hipertexto son datos que contienen enlaces (links) a otros datos.
+La Web se basa en hipertextos.
+
+Un hipertexto es un documento que puede contener uno o varios nodos que están compuestos por distintos tipos de objetos digitales.
+
+Leer más: http://www.monografias.com/trabajos5/laweb/laweb.shtml#ixzz56Fx28SR1
 
 ![Flujo inicial de la aplicacion](images/hipertexto.gif)
 
