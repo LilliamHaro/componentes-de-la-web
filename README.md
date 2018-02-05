@@ -1,17 +1,17 @@
 # Componentes de la web
 ------------------------------
-Internet
-World wide web
+## Internet
+## World wide web
 -------------------------------
-----Componenetes de la web-----
+## Componenetes de la web
 Cliente (nuestro navegador)
 Servidores
-HTTP
+## HTTP
 --------------------------------
-buscador 
-pagina web
+## buscador 
+## pagina web
 -------------------------------
-html
+## html
 -------------------------------
 
 
