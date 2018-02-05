@@ -19,6 +19,10 @@ no solo contiene datos, sino que además contiene enlaces a otros documentos.
 
 Navegador -> URL -> Peticion HTTP -> Servidor ->Respuesta HTTP -> Navegador (DOM - JS - CSS) -> Pantalla
 
+![URL](images/url.PNG)
+
+![Server](images/server.PNG)
+
 
 
 
