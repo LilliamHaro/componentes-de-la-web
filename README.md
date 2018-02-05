@@ -10,9 +10,8 @@ Introduce un concepto fundamental: La posibilidad de lectura universal, que cons
 
 La Web se basa en hipertextos.
 
-Un hipertexto es un documento que puede contener uno o varios nodos que están compuestos por distintos tipos de objetos digitales.
-
-Leer más: http://www.monografias.com/trabajos5/laweb/laweb.shtml#ixzz56Fx28SR1
+Un hipertexto es un documento que puede contener uno o varios nodos que están compuestos por distintos tipos de objetos digitales,
+no solo contiene datos, sino que además contiene enlaces a otros documentos.
 
 ![Flujo inicial de la aplicacion](images/hipertexto.gif)
 
