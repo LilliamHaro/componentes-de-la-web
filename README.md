@@ -11,6 +11,7 @@ Introduce un concepto fundamental: La posibilidad de lectura universal, que cons
 La Web se basa en hipertextos, es decir, páginas en las que se pueden insertar hipervínculos.
 Hipertexto son datos que contienen enlaces (links) a otros datos.
 
+![Flujo inicial de la aplicacion](images/hipertexto.gif)
 
 ## Componenetes de la web
 - Cliente (nuestro navegador)
