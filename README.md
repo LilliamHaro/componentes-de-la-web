@@ -12,6 +12,7 @@ Para interconectar computadoras con el mundo hacen falta 2 aparatos esenciales u
 
 - Modem (Red telefónica, se conecta al mundo) Este aparato convierte la información de nuestra red en información manejable por infraestructura telefónica y vice versa.
 
+![internet](images/works.png)
 
 
 ## World wide web
@@ -86,6 +87,7 @@ Una página web es un documento que puede ser mostrado por un browser. Estos doc
 
 Todas las páginas web disponibles en la red son accesibles mediante una dirección única. Para acceder a una página, simplemente escribe su direcciones en la barra de búsqueda de tu navegador:
 
+![hipertexto](images/web-pages.jpg)
 
 ## HTML
 
