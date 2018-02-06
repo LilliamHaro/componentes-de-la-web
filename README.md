@@ -35,7 +35,7 @@ Navegador -> URL -> Peticion HTTP -> Servidor ->Respuesta HTTP -> Navegador (DOM
 
 ![Server](images/server.PNG)
 
-## Componenetes de la web
+## Componentes de la web
 - Cliente (nuestro navegador)
 
 El cliente es una aplicación informática o un ordenador que consume un servicio remoto en otro ordenador conocido como servidor, normalmente a través de una red de telecomunicaciones.
@@ -58,8 +58,13 @@ La principal función de un servidor Web es almacenar los archivos de un sitio y
 
 Es el protocolo de comunicación que permite las transferencias de información en la World Wide Web.
 
-Un protocolo es un método establecido de intercambiar datos en Internet. Un protocolo es un método por el cual dos ordenadores acuerdan comunicarse, una especificación que describe cómo los ordenadores hablan el uno al otro en una red.
+Un protocolo es un método por el cual dos ordenadores acuerdan comunicarse, una especificación que describe cómo los ordenadores hablan el uno al otro en una red.
 
+El estándar HTTP/1.0 recoge únicamente tres comandos, que representan las operaciones de recepción y envío de información y chequeo de estado:
+
+* GET Se utiliza para recoger cualquier tipo de información del servidor.
+* HEAD Solicita información sobre un objeto (fichero): tamaño, tipo, fecha de modificación… Es utilizado por los gestores de cachés de páginas o los servidores proxy, para conocer cuándo es necesario actualizar la copia que se mantiene de un fichero.
+* POST Sirve para enviar información al servidor, por ejemplo los datos contenidos en un formulario
 
 
 - Buscador 
