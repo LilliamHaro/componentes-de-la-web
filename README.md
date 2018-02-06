@@ -1,16 +1,16 @@
 # Componentes de la web
 
-## Internet(Red de redes)
+## Internet (Red de redes)
 
 Red de computadoras que se encuentran interconectadas a nivel mundial para compartir información. Esta red ofrece diversos servicios a sus usuarios, como pueden ser el correo electrónico, el chat o la web. Estos servicios son llevados a cabo gracias a miles de ordenadores que están permanentemente encendidos y conectados a la red, esperando que los
 usuarios les soliciten los servicios y sirviéndolos una vez son solicitados.
 
-###¿Cómo funciona?
-Para interconectar computadoras con el mundo hacen falta 2 aparatos esenciales un router y un modem 
+### ¿Cómo funciona?
+Para interconectar computadoras con el mundo hacen falta 2 aparatos esenciales un router y un modem.
 
-- Router(cables) que es una pequeña computadora que asegura que el mensaje enviado desde una computadora llegué la computadora destinataria correcta.
+- Router (Cables) que es una pequeña computadora que asegura que el mensaje enviado desde una computadora llegué la computadora destinataria correcta.
 
-- Modem(red telefónica, se conecta al mundo) Este aparato convierte la información de nuestra red en información manejable por infraestructura telefónica y vice versa.
+- Modem (Red telefónica, se conecta al mundo) Este aparato convierte la información de nuestra red en información manejable por infraestructura telefónica y vice versa.
 
 
 
@@ -36,7 +36,7 @@ Navegador -> URL -> Peticion HTTP -> Servidor ->Respuesta HTTP -> Navegador (DOM
 ![Server](images/server.PNG)
 
 ## Componentes de la web
-- Cliente (nuestro navegador)
+- Cliente (Nuestro navegador)
 
 El cliente es una aplicación informática o un ordenador que consume un servicio remoto en otro ordenador conocido como servidor, normalmente a través de una red de telecomunicaciones.
 
@@ -54,7 +54,7 @@ La principal función de un servidor Web es almacenar los archivos de un sitio y
  
  ![DNS](images/DNS.PNG)
  
-- HTTP(Hypertext Transfer Protocol, ‘protocolo de transferencia de hipertextos’)
+- HTTP (Hypertext Transfer Protocol, ‘protocolo de transferencia de hipertextos’)
 
 Es el protocolo de comunicación que permite las transferencias de información en la World Wide Web.
 
@@ -63,9 +63,10 @@ Un protocolo es un método por el cual dos ordenadores acuerdan comunicarse, una
 El estándar HTTP/1.0 recoge únicamente tres comandos, que representan las operaciones de recepción y envío de información y chequeo de estado:
 
 * GET Se utiliza para recoger cualquier tipo de información del servidor.
-* HEAD Solicita información sobre un objeto (fichero): tamaño, tipo, fecha de modificación… Es utilizado por los gestores de cachés de páginas o los servidores proxy, para conocer cuándo es necesario actualizar la copia que se mantiene de un fichero.
-* POST Sirve para enviar información al servidor, por ejemplo los datos contenidos en un formulario
 
+* HEAD Solicita información sobre un objeto (fichero): tamaño, tipo, fecha de modificación… Es utilizado por los gestores de cachés de páginas o los servidores proxy, para conocer cuándo es necesario actualizar la copia que se mantiene de un fichero.
+
+* POST Sirve para enviar información al servidor, por ejemplo los datos contenidos en un formulario
 
 - Buscador 
 
@@ -80,6 +81,7 @@ Motores de búsqueda Web funcionan mediante el envío de una araña.
 Las arañas (también llamadas "spiders") de los motores de búsqueda, recorren las páginas recopilando información sobre los contenidos de las páginas. Cuando se busca una información concreta en los buscadores, ellos consultan su base de datos y presentan resultados clasificados por su relevancia para esa búsqueda concreta.
 
 - Página web
+
 Una página web es un documento que puede ser mostrado por un browser. Estos documentos están escritos en lenguaje HTML
 
 Todas las páginas web disponibles en la red son accesibles mediante una dirección única. Para acceder a una página, simplemente escribe su direcciones en la barra de búsqueda de tu navegador:
