@@ -43,6 +43,8 @@ El cliente es una aplicación informática o un ordenador que consume un servici
 
 Uno de los clientes más utilizados, sobre todo por su versatilidad, es el navegador web. Este es un software, aplicación o programa que permite el acceso a la Web, interpretando la información de distintos tipos de archivos y sitios web para que estos puedan ser visualizados.
 
+![cliente](images/web-server.jpg)
+
 - Servidores
 
 Un servidor web es una computadora que aloja uno o mas sitios web.
@@ -87,7 +89,7 @@ Una página web es un documento que puede ser mostrado por un browser. Estos doc
 
 Todas las páginas web disponibles en la red son accesibles mediante una dirección única. Para acceder a una página, simplemente escribe su direcciones en la barra de búsqueda de tu navegador:
 
-![hipertexto](images/web-pages.jpg)
+![page](images/web-page.jpg)
 
 ## HTML
 
