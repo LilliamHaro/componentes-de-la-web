@@ -71,6 +71,8 @@ El estándar HTTP/1.0 recoge únicamente tres comandos, que representan las oper
 
 * POST Sirve para enviar información al servidor, por ejemplo los datos contenidos en un formulario
 
+![http](images/http.jpg)
+
 - Buscador 
 
 Un buscador es un tipo especial de sitio web que ayuda a los usuarios a encontrar páginas web de sitios web.
