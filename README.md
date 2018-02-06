@@ -1,6 +1,18 @@
 # Componentes de la web
 
-## Internet
+## Internet(Red de redes)
+
+Red de computadoras que se encuentran interconectadas a nivel mundial para compartir información. Esta red ofrece diversos servicios a sus usuarios, como pueden ser el correo electrónico, el chat o la web. Estos servicios son llevados a cabo gracias a miles de ordenadores que están permanentemente encendidos y conectados a la red, esperando que los
+usuarios les soliciten los servicios y sirviéndolos una vez son solicitados.
+
+###¿Cómo funciona?
+Para interconectar computadoras con el mundo hacen falta 2 aparatos esenciales un router y un modem 
+
+- Router(cables) que es una pequeña computadora que asegura que el mensaje enviado desde una computadora llegué la computadora destinataria correcta.
+
+- Modem(red telefónica, se conecta al mundo) Este aparato convierte la información de nuestra red en información manejable por infraestructura telefónica y vice versa.
+
+
 
 ## World wide web
 
@@ -25,6 +37,11 @@ Navegador -> URL -> Peticion HTTP -> Servidor ->Respuesta HTTP -> Navegador (DOM
 
 ## Componenetes de la web
 - Cliente (nuestro navegador)
+
+El cliente es una aplicación informática o un ordenador que consume un servicio remoto en otro ordenador conocido como servidor, normalmente a través de una red de telecomunicaciones.
+
+Uno de los clientes más utilizados, sobre todo por su versatilidad, es el navegador web. Este es un software, aplicación o programa que permite el acceso a la Web, interpretando la información de distintos tipos de archivos y sitios web para que estos puedan ser visualizados.
+
 - Servidores
 
 Un servidor web es una computadora que aloja uno o mas sitios web.
@@ -37,7 +54,14 @@ La principal función de un servidor Web es almacenar los archivos de un sitio y
  
  ![DNS](images/DNS.PNG)
  
-- HTTP
+- HTTP(Hypertext Transfer Protocol, ‘protocolo de transferencia de hipertextos’)
+
+Es el protocolo de comunicación que permite las transferencias de información en la World Wide Web.
+
+Un protocolo es un método establecido de intercambiar datos en Internet. Un protocolo es un método por el cual dos ordenadores acuerdan comunicarse, una especificación que describe cómo los ordenadores hablan el uno al otro en una red.
+
+
+
 - Buscador 
 
 Un buscador es un tipo especial de sitio web que ayuda a los usuarios a encontrar páginas web de sitios web.
@@ -51,6 +75,10 @@ Motores de búsqueda Web funcionan mediante el envío de una araña.
 Las arañas (también llamadas "spiders") de los motores de búsqueda, recorren las páginas recopilando información sobre los contenidos de las páginas. Cuando se busca una información concreta en los buscadores, ellos consultan su base de datos y presentan resultados clasificados por su relevancia para esa búsqueda concreta.
 
 - Página web
+Una página web es un documento que puede ser mostrado por un browser. Estos documentos están escritos en lenguaje HTML
+
+Todas las páginas web disponibles en la red son accesibles mediante una dirección única. Para acceder a una página, simplemente escribe su direcciones en la barra de búsqueda de tu navegador:
+
 
 ## HTML
 
